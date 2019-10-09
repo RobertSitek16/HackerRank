@@ -1,4 +1,4 @@
-package compareTheTriples;
+package easy.compareTheTriples;
 
 import java.util.Scanner;
 

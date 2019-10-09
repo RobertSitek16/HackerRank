@@ -1,4 +1,4 @@
-package myFirstChallenge;
+package easy.myFirstChallenge;
 
 import java.util.Scanner;
 

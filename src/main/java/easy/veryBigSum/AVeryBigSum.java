@@ -1,4 +1,4 @@
-package veryBigSum;
+package easy.veryBigSum;
 
 import java.util.Scanner;
 

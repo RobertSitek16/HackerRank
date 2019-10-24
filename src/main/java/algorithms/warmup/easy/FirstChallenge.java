@@ -1,4 +1,4 @@
-package easy.myFirstChallenge;
+package algorithms.warmup.easy;
 
 import java.util.Scanner;
 

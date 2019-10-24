@@ -1,4 +1,4 @@
-package easy.diagonalDifferenceInArray;
+package algorithms.warmup.easy;
 
 import java.util.Random;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package easy.veryBigSum;
+package algorithms.warmup.easy;
 
 import java.util.Scanner;
 

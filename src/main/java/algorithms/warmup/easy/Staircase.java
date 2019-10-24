@@ -1,4 +1,4 @@
-package easy.staircase;
+package algorithms.warmup.easy;
 
 import java.util.Scanner;
 

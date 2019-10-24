@@ -1,4 +1,4 @@
-package easy.gradingStudents;
+package algorithms.implementation.easy;
 
 import java.util.Arrays;
 import java.util.Collections;

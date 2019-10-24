@@ -1,4 +1,4 @@
-package medium;
+package algorithms.search.medium;
 
 import java.util.Arrays;
 import java.util.Scanner;

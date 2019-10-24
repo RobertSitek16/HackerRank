@@ -1,4 +1,4 @@
-package easy.timeconversion;
+package algorithms.warmup.easy;
 
 import java.text.DateFormat;
 import java.text.ParseException;

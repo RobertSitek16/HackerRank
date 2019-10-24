@@ -1,4 +1,4 @@
-package easy.miniMaxSum;
+package algorithms.warmup.easy;
 
 import java.util.Scanner;
 

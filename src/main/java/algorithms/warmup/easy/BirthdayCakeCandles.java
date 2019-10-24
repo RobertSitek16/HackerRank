@@ -1,4 +1,4 @@
-package easy.birthdayCakeCandles;
+package algorithms.warmup.easy;
 
 import java.util.Scanner;
 

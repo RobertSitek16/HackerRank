@@ -1,4 +1,4 @@
-package easy.plusMinus;
+package algorithms.warmup.easy;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

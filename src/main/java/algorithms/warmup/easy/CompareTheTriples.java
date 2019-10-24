@@ -1,4 +1,4 @@
-package easy.compareTheTriples;
+package algorithms.warmup.easy;
 
 import java.util.Scanner;
 

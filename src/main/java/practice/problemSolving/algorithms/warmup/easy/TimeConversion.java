@@ -1,4 +1,4 @@
-package algorithms.warmup.easy;
+package practice.problemSolving.algorithms.warmup.easy;
 
 import java.text.DateFormat;
 import java.text.ParseException;

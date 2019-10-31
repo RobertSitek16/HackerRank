@@ -1,4 +1,4 @@
-package algorithms.implementation.easy;
+package practice.problemSolving.algorithms.implementation.easy;
 
 import java.util.Arrays;
 import java.util.Collections;

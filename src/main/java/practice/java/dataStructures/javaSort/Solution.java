@@ -1,8 +1,6 @@
 package practice.java.dataStructures.javaSort;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 
 public class Solution {
     public static void main(String[] args){
@@ -20,6 +18,8 @@ public class Solution {
 
             testCases--;
         }
+        Collections.sort(studentList, Comparator.comparing(Student::getCgpa).reversed()
+        .thenComparing(Student::getFname).thenComparing(Student::getId));
 
         for(Student st: studentList){
             System.out.println(st.getFname());

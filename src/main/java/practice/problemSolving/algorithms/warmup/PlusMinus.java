@@ -1,4 +1,4 @@
-package practice.problemSolving.algorithms.warmup.easy;
+package practice.problemSolving.algorithms.warmup;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

@@ -1,4 +1,4 @@
-package practice.problemSolving.algorithms.search.medium;
+package practice.problemSolving.algorithms.search;
 
 import java.util.Arrays;
 import java.util.Scanner;

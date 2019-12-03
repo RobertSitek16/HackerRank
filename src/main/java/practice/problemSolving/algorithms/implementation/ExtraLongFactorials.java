@@ -1,4 +1,4 @@
-package practice.problemSolving.algorithms.implementation.medium;
+package practice.problemSolving.algorithms.implementation;
 
 import java.math.BigInteger;
 import java.util.Scanner;

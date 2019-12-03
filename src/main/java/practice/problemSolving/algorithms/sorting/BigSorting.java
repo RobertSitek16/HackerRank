@@ -1,4 +1,4 @@
-package practice.problemSolving.algorithms.easy;
+package practice.problemSolving.algorithms.sorting;
 
 
 import java.math.BigInteger;

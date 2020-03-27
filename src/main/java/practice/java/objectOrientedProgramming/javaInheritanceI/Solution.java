@@ -10,7 +10,7 @@ I am singing
 package practice.java.objectOrientedProgramming.javaInheritanceI;
 
 public class Solution {
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         Bird bird = new Bird();
         bird.walk();

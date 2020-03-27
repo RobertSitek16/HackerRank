@@ -12,7 +12,7 @@ import java.util.*;
 public class MigratoryBirds {
 
     static int migratoryBirds(int n, int[] ar) {
-        int ary[] = new int[n];
+        int[] ary = new int[n];
         for (int i = 0; i < n; i++){
             ary[ar[i]]++;
         }

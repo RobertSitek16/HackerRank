@@ -17,7 +17,7 @@ public class BreakingTheRecords {
         int n = scanner.nextInt();
         int counterHighest = 0;
         int counterLowest = 0;
-        int scoreArray [] = new int[n];
+        int[] scoreArray = new int[n];
         for (int i = 0; i < n; i++){
             scoreArray [i] = scanner.nextInt();
         }

@@ -23,7 +23,7 @@ public class Solution {
             o = new Object();
             Solution.Inner inner = new Solution.Inner();
             Inner.Private privateInner = inner.new Private();
-            o = (Object) privateInner;
+            o = privateInner;
             System.out.println(num + " is " + privateInner.powerof2(num));
             System.out.println("An instance of class: " + o.getClass().getCanonicalName() + " has been created");
 

@@ -31,7 +31,7 @@ public class InstanceOfTutorial {
             if(element instanceof Hacker)
             c++;
         }
-        String ret = Integer.toString(a)+" "+ Integer.toString(b)+" "+ Integer.toString(c);
+        String ret = a +" "+ b +" "+ c;
         return ret;
     }
 
